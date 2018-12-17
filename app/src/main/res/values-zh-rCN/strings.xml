@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">设置</string>
+    <string name="app_animator">动画</string>
+    <string name="app_list_view">列表</string>
+    <string name="app_pattern">设计模式</string>
+
+    <string-array name="animations">
+        <item>颜色</item>
+        <item>位移</item>
+        <item>旋转</item>
+    </string-array>
+</resources>
